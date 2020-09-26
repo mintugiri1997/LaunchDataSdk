@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "979471971421",
+    "firebase_url": "https://launchdatasdk.firebaseio.com",
+    "project_id": "launchdatasdk",
+    "storage_bucket": "launchdatasdk.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:979471971421:android:7d468e444e33a4225989b4",
+        "android_client_info": {
+          "package_name": "com.mintu.launchdatasdk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "979471971421-n0v5a1i77bu1g7v7rjt04cliud2977hp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWcwD9lY5kXm2IY1TA6UEbmaaev5r8FPI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "979471971421-n0v5a1i77bu1g7v7rjt04cliud2977hp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
